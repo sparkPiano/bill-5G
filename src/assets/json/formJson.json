@@ -1,0 +1,127 @@
+[
+  {
+    "id": "group1",
+    "label": "group1",
+    "titleColor": "",
+    "labelWidth": "",
+    "labelAlign": "",
+    "labelMarginRight": "",
+    "gutter": "",
+    "icon": "",
+    "img": "",
+    "sysIcon": "",
+    "sysIsMsg": "",
+    "xicon": "",
+    "xsize": "",
+    "children": [
+      {
+        "type": "cell",
+        "title": "",
+        "cellValue": "",
+        "inlineDesc": "",
+        "link": "",
+        "isLink": false,
+        "primary": "title",
+        "isLoading": false,
+        "valueAlign": "left",
+        "borderIntent": true,
+        "arrowDirection": "",
+        "disabled": null,
+        "alignItems": "",
+        "icon": "",
+        "img": "",
+        "sysIcon": "",
+        "sysIsMsg": "",
+        "xicon": "",
+        "xsize": ""
+      },
+      {
+        "type": "calendar",
+        "title": "",
+        "placeholder": "",
+        "showPopupHeader": "",
+        "popupHeaderTitle": "",
+        "displayFormat": "",
+        "readonly": "",
+        "calendarVal": ""
+      },
+      {
+        "type": "cell-box"
+      },
+      {
+        "type": "cell-form-preview"
+      },
+      {
+        "type": "check-icon"
+      },
+      {
+        "type": "checker"
+      },
+      {
+        "type": "checklist"
+      },
+      {
+        "type": "datetime-range"
+      },
+      {
+        "type": "datetime-view"
+      },
+      {
+        "type": "datetime"
+      },
+      {
+        "type": "form-preview"
+      },
+      {
+        "type": "inline-calendar"
+      },
+      {
+        "type": "inline-x-number"
+      },
+      {
+        "type": "inline-x-switch"
+      },
+      {
+        "type": "picker"
+      },
+      {
+        "type": "popup-picker"
+      },
+      {
+        "type": "popup-radio"
+      },
+      {
+        "type": "rater"
+      },
+      {
+        "type": "search"
+      },
+      {
+        "type": "selector"
+      },
+      {
+        "type": "swipout"
+      },
+      {
+        "type": "x-address"
+      },
+      {
+        "type": "x-input"
+      },
+      {
+        "type": "x-number"
+      },
+      {
+        "type": "x-switch"
+      },
+      {
+        "type": "x-textarea"
+      }
+    ]
+  },
+  {
+    "id": "group2",
+    "label": "group2",
+    "children": []
+  }
+]
